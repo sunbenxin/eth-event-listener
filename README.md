@@ -1,2 +1,2 @@
 # eth-event-listener
-A event listener decoupled from bee postage package
+A event listener decoupled from [eth_bee/postage](https://github.com/ethersphere/bee/tree/master/pkg/postage) package.
